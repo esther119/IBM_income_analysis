@@ -20,7 +20,7 @@ This is a regression project that I create in my first-year statistics class. Th
 
 The files in this project include
 - A Python notebook for data analysis: Correlation and Regression.ipynb
-- A overall report about income analysis: Correlation and Regression.pdf
+- A overall report about income analysis: [Correlation and Regression.pdf](https://github.com/esther119/regression_IBM_income_analysis/blob/master/Regression_IBM_income/Correlation%20and%20Regression.pdf)
 - Source Data: WA_Fn-UseC_-HR-Employee-Attrition.csv
 - Plots: independece.png, linearity.png, pairplot.png 
 
