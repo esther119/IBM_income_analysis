@@ -19,7 +19,7 @@ This is a regression project that I create in my first-year statistics class. Th
 <a name="usage"></a>
 ## 2. Usage tips
 
-The files include
+The files in this project include
 - A Python notebook for data analysis: 
 - A overall report about income analysis: Correlation and Regression.pdf: 
 - Source Data: WA_Fn-UseC_-HR-Employee-Attrition.csv: 
