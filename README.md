@@ -19,9 +19,9 @@ This is a regression project that I create in my first-year statistics class. Th
 ## 2. Usage tips
 
 The files in this project include
-- A Python notebook for data analysis: 
-- A overall report about income analysis: Correlation and Regression.pdf: 
-- Source Data: WA_Fn-UseC_-HR-Employee-Attrition.csv: 
+- A Python notebook for data analysis: Correlation and Regression.ipynb
+- A overall report about income analysis: Correlation and Regression.pdf
+- Source Data: WA_Fn-UseC_-HR-Employee-Attrition.csv
 - Plots: independece.png, linearity.png, pairplot.png 
 
 To understand the project, read the Correlation and Regression PDF report is sufficient. If you are interested in the technical side of analysis, feel free to take a look at the Correlation and Regression Python notebook. 
